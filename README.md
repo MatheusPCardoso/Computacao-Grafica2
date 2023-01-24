@@ -1,8 +1,4 @@
-# Entrega 1 - Computação Gráfica
-
-## 🚀 Começando
-
-Dentro de cada pasta terá um readme com instruções necessárias para a execução do código.
+# Entrega 2 - Computação Gráfica
 
 ### 📋 Pré-requisitos
 
